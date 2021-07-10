@@ -1,4 +1,4 @@
-baseURL = "http://DevSquad-StudyGroup.github.io/"
+baseURL = "https://DevSquad-StudyGroup.github.io/"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
